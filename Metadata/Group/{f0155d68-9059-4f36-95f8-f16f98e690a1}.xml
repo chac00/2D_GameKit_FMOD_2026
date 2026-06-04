@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{f0155d68-9059-4f36-95f8-f16f98e690a1}">
+		<property name="color">
+			<value>Magenta Light 1</value>
+		</property>
+		<property name="name">
+			<value>BOSS SFX</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{5e80cddd-cae1-42c0-a5f5-2cab6deb9e42}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{a5b906b1-1617-4075-9043-e0684968f484}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{595a8322-96b7-4465-9e5c-301a3e667c4a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{5e80cddd-cae1-42c0-a5f5-2cab6deb9e42}">
+		<relationship name="effects">
+			<destination>{460bffe2-c0bb-48d1-a333-8d602c346dc9}</destination>
+			<destination>{95d5d5f8-77b1-4f1a-a940-29b501db4188}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{a5b906b1-1617-4075-9043-e0684968f484}" />
+	<object class="MixerBusFader" id="{460bffe2-c0bb-48d1-a333-8d602c346dc9}" />
+	<object class="SFXReverbEffect" id="{95d5d5f8-77b1-4f1a-a940-29b501db4188}" />
+</objects>

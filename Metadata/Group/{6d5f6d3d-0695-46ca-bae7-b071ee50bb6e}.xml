@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{6d5f6d3d-0695-46ca-bae7-b071ee50bb6e}">
+		<property name="color">
+			<value>Green</value>
+		</property>
+		<property name="volume">
+			<value>4.5</value>
+		</property>
+		<property name="name">
+			<value>SFX</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{ccb04f54-7275-4142-89e9-8df18bf0b2b6}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{602615ff-3b14-4e91-adcc-1fbeb12b3dad}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{595a8322-96b7-4465-9e5c-301a3e667c4a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{ccb04f54-7275-4142-89e9-8df18bf0b2b6}">
+		<relationship name="effects">
+			<destination>{a6aecd2f-89cc-4277-aa13-4c66dc83752d}</destination>
+			<destination>{17847ce2-15d4-4d26-bffa-a86d238a5c35}</destination>
+			<destination>{baa0c39c-1182-4c3f-bd74-069b8798834a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{602615ff-3b14-4e91-adcc-1fbeb12b3dad}" />
+	<object class="ThreeEQEffect" id="{a6aecd2f-89cc-4277-aa13-4c66dc83752d}" />
+	<object class="MixerBusFader" id="{17847ce2-15d4-4d26-bffa-a86d238a5c35}" />
+	<object class="SFXReverbEffect" id="{baa0c39c-1182-4c3f-bd74-069b8798834a}">
+		<property name="earlyDelay">
+			<value>7</value>
+		</property>
+		<property name="lateDelay">
+			<value>11</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>83</value>
+		</property>
+		<property name="highCut">
+			<value>14500</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>96</value>
+		</property>
+		<property name="wetLevel">
+			<value>-80</value>
+		</property>
+	</object>
+</objects>
