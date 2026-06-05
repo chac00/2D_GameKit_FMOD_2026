@@ -65,10 +65,11 @@
 			<value>lowGain</value>
 		</property>
 		<property name="value">
-			<value>-46</value>
+			<value>-46.6000023</value>
 		</property>
 		<relationship name="modulators">
-			<destination>{588e25b8-b6b4-4ccf-98ef-1d2fc4fa2558}</destination>
+			<destination>{ee337739-3ba6-45a8-863c-48f1ad3ea2ef}</destination>
+			<destination>{56f5292f-1eb9-4786-a39d-f051da8a1efe}</destination>
 		</relationship>
 		<relationship name="automatableObject">
 			<destination>{bec272a8-a2a6-4768-9653-f8dcd523217f}</destination>
@@ -142,15 +143,23 @@
 			<destination>{7099f277-ef74-4b5e-83c1-f58b8742eee6}</destination>
 		</relationship>
 	</object>
-	<object class="ADSRModulator" id="{588e25b8-b6b4-4ccf-98ef-1d2fc4fa2558}">
+	<object class="ADSRModulator" id="{ee337739-3ba6-45a8-863c-48f1ad3ea2ef}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>value</value>
 		</property>
 		<property name="initialValue">
 			<value>-80</value>
 		</property>
+		<property name="attackTime">
+			<value>4600</value>
+		</property>
 		<property name="finalValue">
 			<value>-80</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{56f5292f-1eb9-4786-a39d-f051da8a1efe}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>value</value>
 		</property>
 	</object>
 	<object class="ADSRModulator" id="{ba5723e8-4f5b-47ec-b752-42d2cab61417}">

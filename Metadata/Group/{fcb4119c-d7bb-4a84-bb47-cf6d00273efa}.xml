@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{fcb4119c-d7bb-4a84-bb47-cf6d00273efa}">
+		<property name="color">
+			<value>Magenta Light 1</value>
+		</property>
+		<property name="name">
+			<value>BOSS SFX 2</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{fb36c833-0ada-4d85-8701-26ff08ff8412}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{96577182-63d0-4caf-bff3-fb4f4d3d8f47}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{595a8322-96b7-4465-9e5c-301a3e667c4a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{fb36c833-0ada-4d85-8701-26ff08ff8412}">
+		<relationship name="effects">
+			<destination>{94a061e6-c90b-4227-9e34-227a69b5c423}</destination>
+			<destination>{a7aaa6eb-6483-4c07-aa7e-82e65c3a3d2e}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{96577182-63d0-4caf-bff3-fb4f4d3d8f47}" />
+	<object class="MixerBusFader" id="{94a061e6-c90b-4227-9e34-227a69b5c423}" />
+	<object class="SFXReverbEffect" id="{a7aaa6eb-6483-4c07-aa7e-82e65c3a3d2e}">
+		<property name="earlyDelay">
+			<value>179</value>
+		</property>
+		<property name="lateDelay">
+			<value>100</value>
+		</property>
+		<property name="diffusion">
+			<value>21</value>
+		</property>
+		<property name="highCut">
+			<value>1670</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>65</value>
+		</property>
+		<property name="wetLevel">
+			<value>-26.5</value>
+		</property>
+	</object>
+</objects>
