@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{6fca4898-a087-4279-b8ed-68f857d9a5de}">
 		<property name="assetPath">
-			<value>krnbeatz-bubble-in-water-422579.mp3</value>
+			<value>bubbles.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

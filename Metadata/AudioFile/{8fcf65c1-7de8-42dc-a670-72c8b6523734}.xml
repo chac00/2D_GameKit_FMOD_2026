@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8fcf65c1-7de8-42dc-a670-72c8b6523734}">
 		<property name="assetPath">
-			<value>untitled - Track 8_2.wav</value>
+			<value>scary_ambiance_sound.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f99f93a0-0427-4cd4-bbf0-4537531b7a39}">
 		<property name="assetPath">
-			<value>UnityObj - Track 9.wav</value>
+			<value>enemy_grunt5.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

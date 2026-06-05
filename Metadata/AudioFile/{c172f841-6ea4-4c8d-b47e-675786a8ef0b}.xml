@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c172f841-6ea4-4c8d-b47e-675786a8ef0b}">
 		<property name="assetPath">
-			<value>freesound_community-pressure-plate-45634.mp3</value>
+			<value>pressure_pad.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

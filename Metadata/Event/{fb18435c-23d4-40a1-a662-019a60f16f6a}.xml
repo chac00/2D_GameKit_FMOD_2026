@@ -56,7 +56,7 @@
 			<destination>{d352df9f-b3cf-4b14-9ffe-a5d9510f2757}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{f0155d68-9059-4f36-95f8-f16f98e690a1}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{297246ac-17d0-4f83-ab30-a75ed2190640}" />
@@ -137,6 +137,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7eedff9a-e4fc-494f-ba87-2ba99382b953}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -204,7 +207,7 @@
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.25471893</value>
+			<value>-0.313708723</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{d27d4cdf-a865-418a-b8a1-215704013e4d}">

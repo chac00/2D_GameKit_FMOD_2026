@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{7e100ce3-cce5-44bc-bbb4-2f5ed85331a8}">
 		<property name="assetPath">
-			<value>freesound_community-splash-by-blaukreuz-6261.mp3</value>
+			<value>water_splash.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>24</value>

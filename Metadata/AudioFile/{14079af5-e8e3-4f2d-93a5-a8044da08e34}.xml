@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{14079af5-e8e3-4f2d-93a5-a8044da08e34}">
 		<property name="assetPath">
-			<value>untitled - Track 5_7.wav</value>
+			<value>laser_pistol.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

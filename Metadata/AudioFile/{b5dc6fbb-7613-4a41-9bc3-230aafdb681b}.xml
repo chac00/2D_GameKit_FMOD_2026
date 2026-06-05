@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b5dc6fbb-7613-4a41-9bc3-230aafdb681b}">
 		<property name="assetPath">
-			<value>freesound_community-tomato-squishwet-103934.mp3</value>
+			<value>squish.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

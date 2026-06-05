@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ba25ef5f-ef6b-45dd-bd91-478b655ab638}">
 		<property name="assetPath">
-			<value>dragon-studio-steam-hissing-386157.mp3</value>
+			<value>steam_hiss.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c532e308-109d-4fc7-b60e-a7cb4f944ecf}">
 		<property name="assetPath">
-			<value>untitled - Track 4_5.wav</value>
+			<value>rock_foostep_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

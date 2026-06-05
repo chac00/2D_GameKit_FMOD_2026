@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{64bf2e7a-967f-495e-b3c5-f090ae921574}">
 		<property name="assetPath">
-			<value>floraphonic-metal-hit-12-193278.mp3</value>
+			<value>metal_hit_1.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

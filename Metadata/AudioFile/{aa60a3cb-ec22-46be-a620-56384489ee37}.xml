@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{aa60a3cb-ec22-46be-a620-56384489ee37}">
 		<property name="assetPath">
-			<value>cave ambiance - Track 17.wav</value>
+			<value>enemy_bite_6.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b924e7a6-2bf7-4834-8287-b8e4296ab6ea}">
 		<property name="assetPath">
-			<value>untitled - Track 6_5.wav</value>
+			<value>scary_hissing.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

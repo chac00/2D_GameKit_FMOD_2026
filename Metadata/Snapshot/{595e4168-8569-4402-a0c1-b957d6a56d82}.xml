@@ -180,7 +180,7 @@
 			<value>wetLevel</value>
 		</property>
 		<property name="value">
-			<value>-11.3000002</value>
+			<value>-13</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{baa0c39c-1182-4c3f-bd74-069b8798834a}</destination>

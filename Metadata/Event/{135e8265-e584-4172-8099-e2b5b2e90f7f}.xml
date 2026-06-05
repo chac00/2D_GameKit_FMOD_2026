@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{135e8265-e584-4172-8099-e2b5b2e90f7f}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>spaceship_idle</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5284df81-baa3-48df-b91d-7a8f1e5ed292}</destination>
@@ -53,7 +56,7 @@
 			<destination>{739732a8-1904-4b5f-931c-8e9ac5b8b940}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{f0155d68-9059-4f36-95f8-f16f98e690a1}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{09d460c7-5cfe-40e9-89bc-b6cd9b5dea6e}" />
@@ -89,6 +92,12 @@
 	</object>
 	<object class="MixerBusPanner" id="{739732a8-1904-4b5f-931c-8e9ac5b8b940}" />
 	<object class="SingleSound" id="{fc1689d3-7bf1-4059-8de2-b6ee3cbd4a43}">
+		<property name="isAsync">
+			<value>true</value>
+		</property>
+		<property name="isCutoff">
+			<value>true</value>
+		</property>
 		<property name="length">
 			<value>18.5</value>
 		</property>
@@ -116,6 +125,7 @@
 	<object class="MixerBusEffectChain" id="{d8eff922-d089-46b4-a33f-144a66306bab}">
 		<relationship name="effects">
 			<destination>{9d903c47-3005-4458-975b-2a9d1dec7277}</destination>
+			<destination>{cdb47477-1199-4053-ace7-f3e54448eb6c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{eddf6116-e8b4-4a67-a36b-3fc90095c8a7}" />
@@ -124,10 +134,19 @@
 		<relationship name="effects">
 			<destination>{d435a710-d686-42cb-bd6c-ddfaf54d6ac4}</destination>
 			<destination>{4a6b6114-215e-41a2-a1f4-66611491fe4b}</destination>
+			<destination>{0c128167-e49a-4937-9316-b29cef544796}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{618200b7-99f8-4070-bad9-b574b0df40ce}" />
 	<object class="MixerBusFader" id="{9d903c47-3005-4458-975b-2a9d1dec7277}" />
+	<object class="SpatialiserEffect" id="{cdb47477-1199-4053-ace7-f3e54448eb6c}">
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="minimumExtent">
+			<value>180</value>
+		</property>
+	</object>
 	<object class="ChorusEffect" id="{d435a710-d686-42cb-bd6c-ddfaf54d6ac4}">
 		<property name="rate">
 			<value>0.299999982</value>
@@ -137,4 +156,15 @@
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{4a6b6114-215e-41a2-a1f4-66611491fe4b}" />
+	<object class="ThreeEQEffect" id="{0c128167-e49a-4937-9316-b29cef544796}">
+		<property name="lowGain">
+			<value>-80</value>
+		</property>
+		<property name="midGain">
+			<value>-24.5</value>
+		</property>
+		<property name="highGain">
+			<value>-10</value>
+		</property>
+	</object>
 </objects>
