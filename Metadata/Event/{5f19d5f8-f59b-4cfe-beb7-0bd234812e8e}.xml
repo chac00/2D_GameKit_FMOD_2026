@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{5f19d5f8-f59b-4cfe-beb7-0bd234812e8e}">
+		<property name="note">
+			<value>SFX for the splash in the acid pool. For any object that creates a splash when hitting the acid pool. Simple one-shot. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

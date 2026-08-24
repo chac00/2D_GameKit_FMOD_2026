@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c4f05089-87a6-47c1-b3d7-54d5aedbe94d}">
+		<property name="note">
+			<value>Footstep SFX on different surfaces the player moves on. Each setting has a multi instrument containing 3 instruments of its surface, for variation.
+
+In Audio track 2 and 3. there is  player movement sounds (clothing) when moving that plays on all the settings. These are also in multi instruments for variations in movement.  
+
+0 = Grass
+1 = Gravel
+2 = Rock</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

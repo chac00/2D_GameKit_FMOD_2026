@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{595e4168-8569-4402-a0c1-b957d6a56d82}">
+		<property name="note">
+			<value>Snapshot for cave ambiance. High Reverb.</value>
+		</property>
 		<property name="name">
 			<value>Cave_Snapshot</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{464c452c-4402-4707-ab44-450a265cd026}">
+		<property name="note">
+			<value>SFX for the acid pools</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

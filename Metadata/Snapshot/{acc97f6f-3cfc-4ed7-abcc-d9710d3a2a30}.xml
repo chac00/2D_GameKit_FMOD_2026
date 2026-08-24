@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{acc97f6f-3cfc-4ed7-abcc-d9710d3a2a30}">
+		<property name="note">
+			<value>Snapshot for low health FX. Lowered LOWs on the group SFX and increased the MIDs and HIGHs using 3-EQ.</value>
+		</property>
 		<property name="name">
 			<value>LowHealth_Snapshot</value>
 		</property>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c36b23c8-b08b-416a-aafd-7c3ff5319ff8}">
+		<property name="note">
+			<value>The SFX for the boss death. Heavy bass, and scatterer instrument for when the boss drops "gems". 
+Uses a spatializer on the master.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

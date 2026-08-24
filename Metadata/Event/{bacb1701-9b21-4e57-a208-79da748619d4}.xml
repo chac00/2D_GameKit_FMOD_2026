@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bacb1701-9b21-4e57-a208-79da748619d4}">
+		<property name="note">
+			<value>The enemy footstep noise for the chomper. Using the same multi-instrument as the player has for grass. Also contains a squish sound for each step.
+Uses a spatializer on the master.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

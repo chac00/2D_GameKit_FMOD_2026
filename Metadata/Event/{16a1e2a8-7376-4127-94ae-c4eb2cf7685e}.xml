@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{16a1e2a8-7376-4127-94ae-c4eb2cf7685e}">
+		<property name="note">
+			<value>SFX for a heartbeat that plays when the low health snapshot is on. This is in a loop and dissapears when the snapshot switches back.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

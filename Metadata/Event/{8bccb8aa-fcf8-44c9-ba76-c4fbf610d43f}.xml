@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8bccb8aa-fcf8-44c9-ba76-c4fbf610d43f}">
+		<property name="note">
+			<value>SFX for when the player gets hurt. Either struck by enemies or falls onto a dangerous interactable.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{afdd008a-5f9e-4f90-a21e-ebc02bc6d066}">
+		<property name="note">
+			<value>SFX for the pressure pad</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

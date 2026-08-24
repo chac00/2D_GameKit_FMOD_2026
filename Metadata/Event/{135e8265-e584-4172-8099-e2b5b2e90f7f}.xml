@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{135e8265-e584-4172-8099-e2b5b2e90f7f}">
+		<property name="note">
+			<value>Idle SFX for the spaceship on the first level where the player spawns. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

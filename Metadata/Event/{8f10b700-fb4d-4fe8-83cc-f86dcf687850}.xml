@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8f10b700-fb4d-4fe8-83cc-f86dcf687850}">
+		<property name="note">
+			<value>SFX for enemy noises in a multi instrument of 6 instruments. Not used in the event list. </value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

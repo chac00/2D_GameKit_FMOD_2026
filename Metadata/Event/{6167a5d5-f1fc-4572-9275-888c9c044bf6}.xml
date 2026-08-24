@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6167a5d5-f1fc-4572-9275-888c9c044bf6}">
+		<property name="note">
+			<value>SFX with simple one-shots for the light the boss makes when first appearing. Activating its blue light in the boss cutscene.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ae59c9c3-6bce-4aad-9e5f-7cfdd49df07d}">
+		<property name="note">
+			<value>SFX for the player picking up the health pickups on all levels.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

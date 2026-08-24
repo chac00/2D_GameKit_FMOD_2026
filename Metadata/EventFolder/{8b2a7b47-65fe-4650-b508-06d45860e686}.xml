@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{8b2a7b47-65fe-4650-b508-06d45860e686}">
+		<property name="note">
+			<value>SFX for player footsteps</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

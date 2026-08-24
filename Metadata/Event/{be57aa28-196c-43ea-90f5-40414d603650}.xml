@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{be57aa28-196c-43ea-90f5-40414d603650}">
+		<property name="note">
+			<value>SFX for the ambiance pool using two sounds and put in a loop. Uses a spatializer on the master.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

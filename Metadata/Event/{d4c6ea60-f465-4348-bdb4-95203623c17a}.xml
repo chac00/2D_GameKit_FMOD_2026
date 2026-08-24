@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d4c6ea60-f465-4348-bdb4-95203623c17a}">
+		<property name="note">
+			<value>Pickup SFX for the key. </value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8f27453b-d488-40f4-9453-595c576e0567}">
 		<property name="note">
-			<value>Ambiance with Outdoor and Cave nested events.
+			<value>Ambiance with Outdoor and Cave nested events using a loop.
 
 Setting 0 = Outdoor
 Setting 0.60 = Half Outside

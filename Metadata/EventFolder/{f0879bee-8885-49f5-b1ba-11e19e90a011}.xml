@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{f0879bee-8885-49f5-b1ba-11e19e90a011}">
+		<property name="note">
+			<value>Contains all SFX for the boss</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

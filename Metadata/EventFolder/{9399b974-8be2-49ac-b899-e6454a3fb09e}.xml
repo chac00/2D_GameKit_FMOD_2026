@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{9399b974-8be2-49ac-b899-e6454a3fb09e}">
+		<property name="note">
+			<value>Contains all SFX</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

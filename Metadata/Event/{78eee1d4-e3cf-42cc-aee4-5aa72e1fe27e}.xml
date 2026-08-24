@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{78eee1d4-e3cf-42cc-aee4-5aa72e1fe27e}">
+		<property name="note">
+			<value>SFX for the general UI button click.</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 2</value>
 		</property>

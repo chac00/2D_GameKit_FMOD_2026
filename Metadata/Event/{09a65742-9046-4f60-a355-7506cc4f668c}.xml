@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{09a65742-9046-4f60-a355-7506cc4f668c}">
+		<property name="note">
+			<value>The SFX for the boss bomb attack, heavy laser sound using spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

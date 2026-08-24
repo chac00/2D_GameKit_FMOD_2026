@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1e1ffc75-0074-4c47-8506-f7206ae46144}">
+		<property name="note">
+			<value>A special UI SFX that only plays when clicking start. Heavier sound and more reverb than the other.</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 2</value>
 		</property>

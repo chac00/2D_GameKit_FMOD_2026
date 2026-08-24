@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9bfafcd2-f8ad-479a-839d-1ce9872f57a5}">
+		<property name="note">
+			<value>SFX for the steam on the boss once stage 2 and 3 happens. Same SFX for both stages with a loop on the longer hiss for continued sound to fit the visuals of the boss. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

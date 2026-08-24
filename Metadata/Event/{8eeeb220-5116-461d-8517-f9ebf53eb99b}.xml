@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8eeeb220-5116-461d-8517-f9ebf53eb99b}">
+		<property name="note">
+			<value>SFX for the laser pistol hit on walls. Uses a spatializer for depth.  </value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

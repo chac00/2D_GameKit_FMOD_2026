@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{2a93ea40-352d-4339-9cdf-959cc21ac51b}">
+		<property name="note">
+			<value>Snapshot for outside ambiance. Low reverb.</value>
+		</property>
 		<property name="name">
 			<value>Outside_Snapshot</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f794b989-6033-47c2-8cbf-30680c8d34c0}">
+		<property name="note">
+			<value>SFX for when the Chomper and Spitter dies. A multi instrument containing 3 instruments for slight variation in sound.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

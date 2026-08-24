@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{01c56f32-4d87-4cf4-9ec8-07561cc6b4ef}">
+		<property name="note">
+			<value>SFX for the boss's lightning attack which spans the whole attack. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

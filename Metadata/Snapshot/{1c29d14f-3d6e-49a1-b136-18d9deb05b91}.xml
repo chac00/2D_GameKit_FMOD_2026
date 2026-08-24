@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{1c29d14f-3d6e-49a1-b136-18d9deb05b91}">
+		<property name="note">
+			<value>Snapshot for HalfOutside ambiance. Low reverb.</value>
+		</property>
 		<property name="name">
 			<value>HalfOutside_Snapshot</value>
 		</property>

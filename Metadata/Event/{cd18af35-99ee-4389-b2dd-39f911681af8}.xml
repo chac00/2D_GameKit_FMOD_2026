@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{cd18af35-99ee-4389-b2dd-39f911681af8}">
+		<property name="note">
+			<value>SFX for the chomper bite attack, spread out to fit the visuals of the animation. Uses a spatializer on the master.
+Also uses tremolo on track Audio 3 for alien-sound.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

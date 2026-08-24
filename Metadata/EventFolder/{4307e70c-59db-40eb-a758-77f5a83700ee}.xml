@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{4307e70c-59db-40eb-a758-77f5a83700ee}">
+		<property name="note">
+			<value>SFX for enemies</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

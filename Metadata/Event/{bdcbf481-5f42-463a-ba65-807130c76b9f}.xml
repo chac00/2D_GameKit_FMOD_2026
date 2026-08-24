@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bdcbf481-5f42-463a-ba65-807130c76b9f}">
+		<property name="note">
+			<value>Laser pistol fire SFX using two sounds. </value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

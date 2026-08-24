@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{fcb4119c-d7bb-4a84-bb47-cf6d00273efa}">
+		<property name="note">
+			<value>Second group for boss SFX</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

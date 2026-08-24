@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f93ad2d7-f63e-4c62-8eb1-2f779b7de3c3}">
+		<property name="note">
+			<value>SFX for when the player hits the boss using their weapon. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

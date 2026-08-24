@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bb6294c4-fadf-4a8f-baf9-ae57eff49d8c}">
+		<property name="note">
+			<value>SFX for the boss's primary laser attack on a multi instrument with 3 instruments for slight variation in the attack sound. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

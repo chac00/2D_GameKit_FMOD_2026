@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{fbcb1d90-36f6-4f3e-8942-c09dbf297d34}">
+		<property name="note">
+			<value>SFX for when the spitter is about to spit. A multi instrument with 2 instruments for slight variation.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

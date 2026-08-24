@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6b8975c5-4c56-4115-9cfd-2879bfa79345}">
+		<property name="note">
+			<value>SFX for when the player lands using the same settings as the foostep sound. Each is in a multi instrument. Slightly heavier than the normal foostep sound to indicate a landing.
+
+0 = Grass
+1 = Gravel
+2 = Rock</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>
@@ -74,7 +81,11 @@
 			<destination>{690bbb17-89e2-4ca9-9d2f-6fd7151f8593}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{21b9f906-ba83-4df5-be04-90267459438a}" />
+	<object class="Timeline" id="{21b9f906-ba83-4df5-be04-90267459438a}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
 	<object class="ParameterProxy" id="{77f53437-b490-41f8-a165-127554162505}">
 		<relationship name="modules">
 			<destination>{d2f18743-5019-47fd-8e4a-1803e849c926}</destination>

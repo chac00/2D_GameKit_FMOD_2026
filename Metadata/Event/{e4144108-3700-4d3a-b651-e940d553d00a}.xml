@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e4144108-3700-4d3a-b651-e940d553d00a}">
+		<property name="note">
+			<value>SFX for the alien altar in the cave level. Using a scatterer instrument containing 3 different long instruments for variation. Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

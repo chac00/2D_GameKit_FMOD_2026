@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{fb18435c-23d4-40a1-a662-019a60f16f6a}">
+		<property name="note">
+			<value>The boss door light activating with a slight flicker in the boss cutscene. Small cut in the event to fit the visuals.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

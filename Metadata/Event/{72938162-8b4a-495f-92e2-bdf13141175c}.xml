@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{72938162-8b4a-495f-92e2-bdf13141175c}">
+		<property name="note">
+			<value>SFX for when the door opens. A multi instrument with 2 instruments for slight variation.
+Uses a spatializer.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

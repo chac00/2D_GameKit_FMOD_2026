@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9f2a7b1b-a51f-4eb9-baf9-f91b0bd9ab7d}">
+		<property name="note">
+			<value>SFX for the player melee attack. Two tracks, each with a multi instrument with 4 instruments for slight variation in the attack.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

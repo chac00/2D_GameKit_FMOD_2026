@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{595a8322-96b7-4465-9e5c-301a3e667c4a}">
+		<property name="note">
+			<value>Contains both ambiance and all SFX groups</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

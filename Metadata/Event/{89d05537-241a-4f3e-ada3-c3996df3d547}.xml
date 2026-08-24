@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{89d05537-241a-4f3e-ada3-c3996df3d547}">
+		<property name="note">
+			<value>Idle SFX for the key with a spatializer to have an easier time finding where it is located.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c34305bc-161d-4b56-a077-8b81a5cd7398}">
+		<property name="note">
+			<value>SFX in a multi instrument containing 8 instruments for variation. 
+
+For the boss's shield. For when it appears and when it dissapears.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

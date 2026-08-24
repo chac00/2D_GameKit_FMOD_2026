@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3ca0f747-5ad4-413f-b02b-0a50fadf871b}">
+		<property name="note">
+			<value>The acid projectile of the spitter. Appears when the projectile is in motion and dissapears when the projectile is gone.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

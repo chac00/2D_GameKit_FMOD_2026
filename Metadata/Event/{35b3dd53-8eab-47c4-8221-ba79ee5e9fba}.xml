@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{35b3dd53-8eab-47c4-8221-ba79ee5e9fba}">
+		<property name="note">
+			<value>SFX for when the player smashes the ancient stone "walls" around all the levels. One simple one-shot.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>
